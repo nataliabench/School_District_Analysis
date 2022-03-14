@@ -13,5 +13,11 @@ In regards to the school summary, the data frame shows only Thomas High School w
 
 ![alt text](https://github.com/nataliabench/School_District_Analysis/blob/85a8ab67084758700ce3e7d6452b52bed789fdca/Updated_School_Districts.png)
 
+More specific changes we saw when we replaced the values was an overall decrease in math and reading scores.  Also, the percentage of overall students who passed decreased to 63% from the initial 79% within the $630-644 spending range. Another change we noticed in the updated analysis was a 6% decrease in the overall students passing within the medium size bracket. As for school types, the District Schools experienced a 20% decrease in overall students passing.
+
 ## Summary
-There is a statement summarizing four changes to the school district analysis after reading and math scores have been replaced
+In conclusion, four major changes are inferred from the data in the updated analysis after we replaced the 9th grader scores with NaNs.
+1.  The spending ranges per student do not impact math and reading scores.
+2.  The size of schools impact testing scores; we were able to correlate that as the school was larger, the lower the test scores and overall percentage of students passing.
+3.  Charter Schools have a higher performance compared to District Schools.  Charter Schools had higher testing scores and percentage of overall students passing.
+4.  NaN is an effective method compared to having to enter a value of zero to fix the inconsistencies.
